@@ -25,7 +25,7 @@ A simple and responsive web application that allows users to convert temperature
 
 ## 🖼️ UI Preview
 
-![App Screenshot](screenshot.png) <!-- Add your screenshot file here -->
+![Image](https://github.com/user-attachments/assets/6eb1ddee-a718-4358-9ee1-adc18abf2656)
 
 ## 💡 Extra Challenge
 
