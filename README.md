@@ -27,9 +27,11 @@ A simple and responsive web application that allows users to convert temperature
 
 ![Image](https://github.com/user-attachments/assets/6eb1ddee-a718-4358-9ee1-adc18abf2656)
 
+![Image](https://github.com/user-attachments/assets/c55f699a-9cfa-45e7-82c1-8e5991ad3157)
+
 ## 💡 Extra Challenge
 
 This converter also includes support for Kelvin, making it flexible for a wide range of scientific and general use cases.
 
-## 📂 Folder Structure
+
 
